@@ -4,9 +4,10 @@ This project uses data visualization and a Decision Tree classifier to predict p
 ## Data Information: BlackFriday.csv was obtained from Kaggle, however many of the product and consumer categories remain undefined. Here is a list of all columns and key attributes to handle in data preprocessing: 
 
 
-Column Names: User_ID, Product_ID, Gender, Age, Occupation, City_Category, Stay_In_Current_City_Years,
+##### Column Names: User_ID, Product_ID, Gender, Age, Occupation, City_Category, Stay_In_Current_City_Years,
 Marital_Status, Product_Category_1,Product_Category_2, Product_Category_3,Purchase
-Things to note: 
+
+#### Things to note: 
 1. there are NaN values in Product_Category_2, and Product_Category_3
 2. Marital Status: 0 is Male
 3. City Category: can be converted to a numerical
