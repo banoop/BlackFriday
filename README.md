@@ -20,4 +20,4 @@ Marital_Status, Product_Category_1,Product_Category_2, Product_Category_3,Purcha
 8. There is no definition for what product categories, occupations, or city categories coresspond to
 
 Here is a description of the data: 
-     
+![Description of Data](https://github.com/banoop/BlackFriday/blob/master/DataVisualizations/Data%20Breakdown.png)
