@@ -27,3 +27,15 @@ Furthermore, all visualizations of each target variable distribution and plots o
 ![Product Category 2 vs. Purchase Amount](https://github.com/banoop/BlackFriday/blob/master/DataVisualizations/PC2VP.png)
 ![Product Category 3 vs. Purchase Amount](https://github.com/banoop/BlackFriday/blob/master/DataVisualizations/PC3vP.png)
 
+As seen here, it's clear that the type of product category significantly impacts the purchasing amount of a consumer.
+
+Finally, before constructing the model, I had to use a label encoder for all the features that were defined categorically rather than numerically to create numerical representations for these categories. This allowed for the model to handle these values since the model can't read objects.
+
+## Model: 
+For this project, I used a Decision Tree Classifier, passing in all the feature's available, and using a training proportion of 0.2. The results of this model versus the actual test values can be seen below: 
+
+![DT Classifier- Predicted vs. Actual Purchase](https://github.com/banoop/BlackFriday/blob/master/DataVisualizations/Predictedvactual.png)
+
+
+
+
