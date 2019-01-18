@@ -21,3 +21,9 @@ Marital_Status, Product_Category_1,Product_Category_2, Product_Category_3,Purcha
 
 Here is a description of the data: 
 ![Description of Data](https://github.com/banoop/BlackFriday/blob/master/DataVisualizations/Data%20Breakdown.png)
+
+Furthermore, all visualizations of each target variable distribution and plots of these target variables' relationships to the purchase amount can be found in the data visualizations folder or in the actual program. Important visualizations include the following:
+![Product Category 1 vs. Purchase Amount](https://github.com/banoop/BlackFriday/blob/master/DataVisualizations/PC1VP.png)
+![Product Category 2 vs. Purchase Amount](https://github.com/banoop/BlackFriday/blob/master/DataVisualizations/PC2VP.png)
+![Product Category 3 vs. Purchase Amount](https://github.com/banoop/BlackFriday/blob/master/DataVisualizations/PC3vP.png)
+
